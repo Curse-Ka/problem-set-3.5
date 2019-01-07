@@ -25,7 +25,7 @@ public class ProblemSet3_5 {
 		ps.leapYears(15);
 		ps.palindromicNumbers(123434321);
 		ps.fibonacci(20);
-		ps.multiples(3, 5, 22);
+		ps.multiples(1, 2, 3);
 	}
 	
 	/**
